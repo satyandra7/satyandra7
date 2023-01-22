@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satyandra Pal
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning React and Node.js
 - 📫 How to reach me palsatyandrapal@gmail.com
 
 <!---
